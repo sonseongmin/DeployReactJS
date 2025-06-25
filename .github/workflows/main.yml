@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
 
 env:
-  DOCKER_IMAGE: springbootreactjs
+  DOCKER_IMAGE: springbootvuejs
   DOCKER_TAG: client0.4
   
 jobs:
